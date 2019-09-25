@@ -1,0 +1,2 @@
+# spring_security_oauth2
+使用oauth2对资源服务器资源进行保护起来
