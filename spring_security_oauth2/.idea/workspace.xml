@@ -2,148 +2,208 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a9016a-cfdc-4d30-865a-de778cd20499" name="Default Changelist" comment="">
-      <change afterPath="D:/QQ下载文件/hzero-exam/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/api/controller/v1/DeliveryOrderHeadController.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/api/controller/v1/DeliveryOrderLineController.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/api/controller/v1/PurchaseOrderLineController.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/app/service/DeliveryOrderLineService.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/app/service/PurchaseOrderLineService.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/app/service/impl/DeliveryOrderLineServiceImpl.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/app/service/impl/PurchaseOrderLineServiceImpl.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/domain/entity/DeliveryOrderLine.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/domain/entity/PurchaseOrderLine.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/domain/repository/DeliveryOrderLineRepository.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/domain/repository/PurchaseOrderLineRepository.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/infra/mapper/DeliveryOrderLineMapper.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/infra/mapper/PurchaseOrderLineMapper.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/infra/repository/impl/DeliveryOrderLineRepositoryImpl.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/java/org/hzero/exam/infra/repository/impl/PurchaseOrderLineRepositoryImpl.java" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/resources/mapper/DeliveryOrderLineMapper.xml" afterDir="false" />
-      <change afterPath="D:/QQ下载文件/hzero-exam/src/main/resources/mapper/PurchaseOrderLineMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../java-security/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../swagger-demo/src/main/java/com/example/swaggerdemo/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../swagger-demo/src/main/java/com/example/swaggerdemo/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../swagger-demo/src/main/java/com/example/swaggerdemo/swagger2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../swagger-demo/src/main/java/com/example/swaggerdemo/web/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/ChangeStringValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/test/Aspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/test/AspectDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/test/AspectjIpml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/utils/annotation/LJF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/utils/date/DateTimeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/utils/log/LoggerApply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/utils/log/LoggerAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/aop/utils/log/使用说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/controller/SecController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/dieLock/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/keyword/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/keyword/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/security/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aop-demo/src/main/java/org/ljf/aopdemo/security/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-denpendencies/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/OAuth2ResourceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/config/ResourceServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/controller/TbContentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/domain/TbContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/domain/TbContentCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/dto/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/mapper/TbContentCategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/mapper/TbContentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/TbContentCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/TbContentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/impl/TbContentCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/impl/TbContentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/tk/mybatis/mapper/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/resources/mapper/TbContentCategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-resource/src/main/resources/mapper/TbContentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/Oauth2ServerAppliecation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/inmemory/AuthorizationServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/inmemory/WebSecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/inmemory/service/UserDetailsServiceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/jdbc/AuthorizationServerConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/jdbc/WebSecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/domin/TbPermission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/domin/TbRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/domin/TbUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/mapper/TbPermissionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/mapper/TbRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/mapper/TbUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/TbPermissionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/TbRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/TbUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/impl/TbPermissionServiceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/impl/TbRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/impl/TbUserServiceimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/tk/mybatis/mapper/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/resources/mapper/TbPermissonMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/resources/mapper/TbRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-oauth2-server/src/main/resources/mapper/TbUserMapper.xml" afterDir="false" />
-      <change afterPath="D:/浏览器下载/gen-test/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="D:/浏览器下载/gen-test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="D:/浏览器下载/gen-test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="D:/浏览器下载/gen-test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="D:/浏览器下载/gen-test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/cra/controller/UserController1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/cra/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/cra/mapper/UserMapper1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/cra/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/cra/service/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/test_aop/Advice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/test_aop/AdviceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/test_aop/AfterReturningAdvie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/test_aop/MethodBeforeAdvice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/test_aop/MyInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/java/com/receive/assistant/test_aop/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/resources/aop.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/Cra/CraCore/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../adminAllen-Cra-master/zuul-demo/src/main/java/com/hand/zuuldemo/TestFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/config/MultipleDataSourceConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/config/WebMvcConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/controller/SampleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/controller/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/exc/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/ljf/jdbc/domin/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/java/com/example/demo/ljf/jdbc/repository/UserRepopsitory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/resources/templates/abc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/resources/templates/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../demo/src/main/resources/templates/testThymeleaf.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-base-server/consumer/src/main/java/com/jf/consumer/HelloRemoteImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-base-server/consumer/src/main/java/com/jf/consumer/controller/ConsumerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-base-server/consumer/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-base-server/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/api/controller/v1/TaskController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/api/controller/v1/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/app/service/TaskService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/app/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/app/service/impl/TaskServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/app/service/impl/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/config/CustomWebSecurityConfigurerAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/config/SwaggerApiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/config/TodoExtraDataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/domain/entity/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/domain/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/domain/repository/TaskRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/domain/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/infra/mapper/TaskMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/infra/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/infra/repository/impl/TaskRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/java/com/hzero/todo/infra/repository/impl/UserRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/resources/mapper/TaskMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/resources/messages/messages_en_US.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../hzero-todo-service/src/main/resources/messages/messages_zh_CN.properties" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/dataSources/8435e8d2-c246-4e4b-884c-3e8079c0aea1.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_3_0_1.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_3_0_1.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_6.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_1_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_1_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_base_1_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_core_1_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_5.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/spring-security-oAuth2.iml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/pom.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-denpendencies/pom.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-denpendencies/spring-security-oAuth2-dependencies.iml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/pom.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/spring-security-oauth2-resource.iml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/OAuth2ResourceApplication.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/config/ResourceServerConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/controller/TbContentController.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/domain/TbContent.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/domain/TbContentCategory.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/dto/ResponseResult.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/mapper/TbContentCategoryMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/mapper/TbContentMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/TbContentCategoryService.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/TbContentService.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/impl/TbContentCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/service/impl/TbContentServiceImpl.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/java/tk/mybatis/mapper/MyMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/resources/mapper/TbContentCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/src/main/resources/mapper/TbContentMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/META-INF/spring-security-oauth2-resource.kotlin_module" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/OAuth2ResourceApplication.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/config/ResourceServerConfiguration.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/controller/TbContentController.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/domain/TbContent.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/domain/TbContentCategory.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/dto/ResponseResult.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/mapper/TbContentCategoryMapper.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/mapper/TbContentMapper.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/service/TbContentCategoryService.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/service/TbContentService.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/service/impl/TbContentCategoryServiceImpl.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/com/ljf/oauth2/service/impl/TbContentServiceImpl.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/mapper/TbContentCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/mapper/TbContentMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-resource/target/classes/tk/mybatis/mapper/MyMapper.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/pom.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/spring-security-oauth2-server.iml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/Oauth2ServerAppliecation.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/inmemory/AuthorizationServerConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/inmemory/WebSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/inmemory/service/UserDetailsServiceimpl.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/jdbc/AuthorizationServerConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/jdbc/WebSecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/domin/TbPermission.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/domin/TbRole.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/domin/TbUser.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/mapper/TbPermissionMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/mapper/TbRoleMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/mapper/TbUserMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/TbPermissionService.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/TbRoleService.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/TbUserService.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/impl/TbPermissionServiceimpl.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/impl/TbRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/service/impl/TbUserServiceimpl.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/test/Test.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/java/tk/mybatis/mapper/MyMapper.java" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/resources/mapper/TbPermissonMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/resources/mapper/TbRoleMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/src/main/resources/mapper/TbUserMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/META-INF/spring-security-oauth2-server.kotlin_module" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/Oauth2ServerAppliecation.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/config/inmemory/AuthorizationServerConfiguration.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/config/inmemory/WebSecurityConfiguration.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/config/inmemory/service/UserDetailsServiceimpl.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/config/jdbc/AuthorizationServerConfiguration.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/config/jdbc/WebSecurityConfiguration.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/domin/TbPermission.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/domin/TbRole.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/domin/TbUser.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/mapper/TbPermissionMapper.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/mapper/TbRoleMapper.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/mapper/TbUserMapper.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/service/TbPermissionService.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/service/TbRoleService.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/service/TbUserService.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/service/impl/TbPermissionServiceimpl.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/service/impl/TbRoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/com/ljf/oauth2/server/service/impl/TbUserServiceimpl.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/mapper/TbPermissonMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/mapper/TbRoleMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/mapper/TbUserMapper.xml" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/test/Test.class" beforeDir="false" />
+      <change beforePath="D:/E/spring_security_oauth2/spring-security-oAuth2/spring-security-oauth2-server/target/classes/tk/mybatis/mapper/MyMapper.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-security-oauth2-denpendencies/target/" />
@@ -189,115 +249,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="29" lean-forward="true" selection-start-line="20" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/config/ResourceServerConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/controller/TbContentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="44" column="27" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/com/ljf/oauth2/mapper/TbContentMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/src/main/java/tk/mybatis/mapper/MyMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-resource/src/main/resources/mapper/TbContentMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-server/src/main/java/com/ljf/oauth2/server/config/jdbc/WebSecurityConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1238#1239#0" expanded="true" />
-                <element signature="e#1289#1290#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-security-oauth2-server/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="110" selection-start-line="6" selection-start-column="110" selection-end-line="6" selection-end-column="129" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -518,7 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="57" />
     <option name="y" value="62" />
     <option name="width" value="1386" />
@@ -540,55 +492,7 @@
             <path>
               <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-security-oAuth2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-security-oAuth2" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-security-oauth2-resource" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-security-oauth2-denpendencies" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -686,16 +590,15 @@
       <workItem from="1569292349138" duration="6288000" />
       <workItem from="1569305976660" duration="7261000" />
       <workItem from="1569327550731" duration="2597000" />
-      <workItem from="1569375859084" duration="10762000" />
+      <workItem from="1569375859084" duration="10773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48657000" />
+    <option name="totallyTimeSpent" value="48668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3192133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -707,7 +610,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.04918033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27287853" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
